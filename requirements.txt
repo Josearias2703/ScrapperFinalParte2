@@ -1,0 +1,4 @@
+Flask~=2.3.3
+pymongo[srv]~=4.5.0
+Flask-PyMongo
+werkzeug~=2.3.7
